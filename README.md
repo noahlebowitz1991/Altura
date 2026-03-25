@@ -7,3 +7,5 @@ v2: I replaced the linear model with an XGBRegressor model. I also incorporated 
 v3: A streamlined version of v2.
 v4: I hypothesized that knowledge of the sensible heat in the neighboring rooms would improve the model. Unfortunately, the model did not improve. I am not ruling out my hypothesis yet, though the model may need to be refined.
 v5: I applied the code in v3 to the 14 other rooms in Hewitt Hall Floor 1 where we had enough data.
+
+I cannot legally upload Hewitt Hall data due to an NDA, but I can upload the code I wrote onto GitHub.
